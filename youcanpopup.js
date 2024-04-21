@@ -1,10 +1,10 @@
+
 <div id="MrAminBen_popup"
     class="FlexContainer-lh6d3k-0 ModalWindow__Window-sc-1rlc96w-0 epHMcu eapp-popup-layout-variation-modal-component eapp-popup-layout-variation-modal-component-enter-done"
-    role="dialog" tabindex="-1" aria-modal="true" style="pointer-events: all;display:none;">
+    role="dialog" tabindex="-1" aria-modal="true" style="pointer-events: all; display: none;">
     <div class="ModalBackdrop__Backdrop-sc-873age-0 envSuS eapp-popup-modal-overlay-component eapp-popup-modal-overlay-component-transition-entered"
         style="background-color: rgba(17, 17, 17, 0.7);"></div>
-  
-  
+
     <div class="FlexItem-rdg44b-0 ModalContent__Content-sc-1lyzazn-0 bzgeF eapp-popup-layout-variation-modal-content-container eapp-popup-layout-variation-modal-content-container-transition-entered"
         role="document">
         <div class="FlexContainer-lh6d3k-0 dRKFRl eapp-popup-content-component">
@@ -39,15 +39,12 @@
                                     <div class="jsx-651102099 eapp-popup-block-variation-spacing-component"></div>
                                 </div>
                                 <div class="eapp-popup-content-blocks-container-item">
-                                    <div class="jsx-711716781 eapp-popup-block-variation-title-component"> عروض موسم الصيف                                   !</div>
+                                    <div class="jsx-711716781 eapp-popup-block-variation-title-component">عروض موسم الصيف!</div>
                                 </div>
                                 <div class="eapp-popup-content-blocks-container-item">
-                                    <div class="jsx-952473858 eapp-popup-block-variation-title-component"> تخفيضات تصل
+                                    <div class="jsx-952473858 eapp-popup-block-variation-title-component">تخفيضات تصل
                                         الى 50%-</div>
                                 </div>
-                              
-                              
-                              
                                 <div class="eapp-popup-content-blocks-container-item">
                                     <div class="jsx-2715126705 eapp-popup-block-variation-text-component">
                                         <div class="jsx-2715126705 eapp-popup-block-variation-text-text">رقم القسيمة
